@@ -1,7 +1,5 @@
 # Gulp
 
-# Install
-npm i
+### `npm i`
 
-# Start
-gulp
+### `gulp`
