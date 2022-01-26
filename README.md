@@ -1,4 +1,4 @@
-# gulp
+# Gulp
 
 # Install
 npm i
